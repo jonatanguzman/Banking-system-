@@ -1,4 +1,4 @@
-🏦 TP Integrador – Gestión Bancaria (Laboratorio IV - UTN)
+🏦 Gestión Bancaria (Laboratorio IV - UTN)
 Este proyecto fue desarrollado como parte del Trabajo Práctico Integrador de Laboratorio de Computación IV en la UTN - Facultad Regional General Pacheco, en equipo con otros compañeros de cursada. Consiste en una aplicación web desarrollada en Java con JSP, Servlets y JDBC que permite la gestión completa de un sistema bancario, diferenciando entre usuarios clientes y administradores.
 
 Actualmente me encuentro realizando mejoras en el sistema, corrigiendo errores, optimizando funcionalidades y agregando nuevas características que quedaron pendientes.
